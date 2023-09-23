@@ -15,6 +15,7 @@ To use this Prework Study Guide, you can review the notes in each section. For s
 ## Links
 
 Github repository URL:   https://github.com/JarettDeSanti/prework-study-guide 
+
 Deployed live site URL:  https://jarettdesanti.github.io/prework-study-guide/
 
 ## Credits
