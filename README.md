@@ -18,6 +18,10 @@ Github repository URL:   https://github.com/JarettDeSanti/prework-study-guide
 
 Deployed live site URL:  https://jarettdesanti.github.io/prework-study-guide/
 
+## Screenshot
+
+![Alt text](Prework_study_guide_screenshot.png)
+
 ## Credits
 
 N/A
