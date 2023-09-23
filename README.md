@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a study guide created for students going through the Prework. The notes contain information on HTML, CSS, Git, and JavaScript.
+This is a study guide created for students going through the Prework. The notes contain information on HTML, CSS, Git, and JavaScript. The link to the deployed live site can be found in the "Links" section of this readme.
 
 ## Installation
 
